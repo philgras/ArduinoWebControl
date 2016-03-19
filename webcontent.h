@@ -3,7 +3,7 @@
 
 
 
-int handle_client_connection();
+int handle_client_connection(int c_socket,const char* device);
 
 
 
