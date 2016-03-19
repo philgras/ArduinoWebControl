@@ -10,3 +10,6 @@ This is just a prototype. It demonstrates how to control the pins of an Arduino 
   `cmake ..`<br>
   `make`<br>
   `/.ArduinoWebControl /dev/yourDevice`
+####Arduino Setup
+
+<img src=https://raw.githubusercontent.com/philgras/ArduinoWebControl/master/RGBLed.png width="350">
